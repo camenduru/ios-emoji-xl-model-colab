@@ -28,8 +28,8 @@ Total Run time: 44.3 minutes
 Total Cost: $2
 ```
 
-## Model Repo
-https://huggingface.co/camenduru/ios-emoji-xl
+## Model & Dataset Repo
+https://huggingface.co/camenduru/ios-emoji-xl/tree/main
 
 ## Output
 ![out-0](https://github.com/camenduru/ios-emoji-xl-model-colab/assets/54370274/63ced594-e889-40f5-9d50-dd3cec1efaed)
