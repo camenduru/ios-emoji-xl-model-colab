@@ -8,6 +8,18 @@
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ios-emoji-xl-model-colab/blob/main/ios_emoji_xl_model_colab.ipynb) | ios_emoji_xl_model_colab
 
+## Training Logs
+
+```py
+Num examples = 3953
+Num batches each epoch = 989
+Num Epochs = 2
+Instantaneous batch size per device = 4
+Total train batch size (w. parallel, distributed & accumulation) = 4
+Gradient Accumulation steps = 1
+Total optimization steps = 1000
+```
+
 ## Model Repo
 https://huggingface.co/camenduru/ios-emoji-xl
 
