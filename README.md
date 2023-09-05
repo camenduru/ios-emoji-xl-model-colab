@@ -12,4 +12,4 @@
 https://huggingface.co/camenduru/ios-emoji-xl
 
 ## Output
-
+![out-0](https://github.com/camenduru/ios-emoji-xl-model-colab/assets/54370274/63ced594-e889-40f5-9d50-dd3cec1efaed)
