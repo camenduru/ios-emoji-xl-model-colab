@@ -20,6 +20,14 @@ Gradient Accumulation steps = 1
 Total optimization steps = 1000
 ```
 
+## Training Cost
+```py
+Trained with Nvidia A40 (Large) at https://replicate.com
+Thanks to Replicate ❤
+Total Run time: 44.3 minutes
+Total Cost: $2
+```
+
 ## Model Repo
 https://huggingface.co/camenduru/ios-emoji-xl
 
