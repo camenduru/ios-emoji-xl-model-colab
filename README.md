@@ -10,7 +10,7 @@
 
 ## Training Logs
 
-⚠ Trained with 72x72 icons 😋
+⚠ Trained with 72x72 apple emojis 😋
 
 ```py
 Num examples = 3953
