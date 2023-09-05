@@ -10,6 +10,8 @@
 
 ## Training Logs
 
+⚠ Trained with 72x72 icons 😋
+
 ```py
 Num examples = 3953
 Num batches each epoch = 989
