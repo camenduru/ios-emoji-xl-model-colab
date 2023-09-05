@@ -10,7 +10,8 @@
 
 ## Training Logs
 
-⚠ Trained with 72x72 apple emojis 😋
+⚠ Trained with 72x72 apple emojis 😋  <br />
+Thanks to fofr ❤ for the idea. better model: https://twitter.com/fofrAI/status/1698741974835065171
 
 ```py
 Num examples = 3953
