@@ -35,3 +35,4 @@ https://huggingface.co/camenduru/ios-emoji-xl/tree/main
 
 ## Output
 ![out-0](https://github.com/camenduru/ios-emoji-xl-model-colab/assets/54370274/63ced594-e889-40f5-9d50-dd3cec1efaed)
+![5](https://github.com/camenduru/ios-emoji-xl-model-colab/assets/54370274/1a87d515-38d5-439c-bbd1-523f46de8d1f)
