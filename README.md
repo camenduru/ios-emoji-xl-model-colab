@@ -50,6 +50,31 @@ https://huggingface.co/camenduru/ios-emoji-xl/blob/main/ios_emoji_xl_v2_lora_web
 ## Model & Dataset Repo
 https://huggingface.co/camenduru/ios-emoji-xl/tree/main
 
+## Replicate LoRA to WebUI LoRA Converter Code
+- Thanks to
+- https://github.com/ignacfetser ❤
+- huggingface/diffusers#2326 ❤
+- https://github.com/harrywang/finetune-sd/blob/main/convert-to-safetensors.py ❤
+
+```py
+pip install safetensors==0.3.3
+
+import re
+from safetensors.torch import load_file, save_file
+checkpoint = load_file('/content/ui/models/Lora/ios_emoji_xl_v2_lora.safetensors')
+new_dict = dict()
+for idx, key in enumerate(checkpoint):
+    new_key = re.sub('\.processor\.', '_', key)
+    new_key = re.sub('mid_block\.', 'mid_block_', new_key)
+    new_key = re.sub('_lora.up.', '.lora_up.', new_key)
+    new_key = re.sub('_lora.down.', '.lora_down.', new_key)
+    new_key = re.sub('\.(\d+)\.', '_\\1_', new_key)
+    new_key = re.sub('to_out', 'to_out_0', new_key)
+    new_key = 'lora_unet_' + new_key
+    new_dict[new_key] = checkpoint[key]
+save_file(new_dict, 'ios_emoji_xl_v2_lora_converted.safetensors')
+```
+
 ## Output Version 2.0
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
