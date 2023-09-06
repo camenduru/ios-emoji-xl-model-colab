@@ -27,13 +27,13 @@ Total Run time: 44.3 minutes
 Total Cost: $2
 ```
 
-## Versio 2.0 (160x160 pixel)
+## Version 2.0 (160x160 pixel)
 
 ```py
 ⚠ Trained with 160x160 pixel ios v16.4 emojis 😋
 
 Num examples = 4129
-Num batches each epoch = 989
+Num batches each epoch = ??
 Num Epochs = 2
 Instantaneous batch size per device = 4
 Total train batch size (w. parallel, distributed & accumulation) = 4
@@ -42,8 +42,8 @@ Total optimization steps = 1000
 
 Trained with Nvidia A40 (Large) at https://replicate.com
 Thanks to Replicate ❤
-Total Run time: 44.3 minutes
-Total Cost: $2
+Total Run time: ?? minutes
+Total Cost: $??
 ```
 
 ## Model & Dataset Repo
