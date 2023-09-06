@@ -8,6 +8,8 @@
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ios-emoji-xl-model-colab/blob/main/ios_emoji_xl_model_colab.ipynb) | ios_emoji_xl_model_colab
 
+# Version 1.0
+
 ## Training Logs
 
 ⚠ Trained with 72x72 pixel apple emojis 😋  <br /> <br />
@@ -30,6 +32,11 @@ Thanks to Replicate ❤
 Total Run time: 44.3 minutes
 Total Cost: $2
 ```
+
+# Versio 2.0
+
+Thanks to https://github.com/samuelngs/apple-emoji-linux for the hi-res emojis ❤
+
 
 ## Model & Dataset Repo
 https://huggingface.co/camenduru/ios-emoji-xl/tree/main
