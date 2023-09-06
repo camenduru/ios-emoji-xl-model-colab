@@ -21,7 +21,7 @@ Instantaneous batch size per device = 4
 Total train batch size (w. parallel, distributed & accumulation) = 4
 Gradient Accumulation steps = 1
 Total optimization steps = 1000
-Total Run time: 44.3 minutes
+Total Run time: 44.26 minutes
 Total Cost: $2
 ```
 
