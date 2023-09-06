@@ -49,12 +49,12 @@ https://huggingface.co/camenduru/ios-emoji-xl/tree/main
 ## Output Version 2.0
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
-![download (8)](https://github.com/camenduru/ios-emoji-xl-model-colab/assets/54370274/e1b834aa-8342-4d87-86f2-3c47c8bc083e) | ![download](https://github.com/camenduru/ios-emoji-xl-model-colab/assets/54370274/6a7d2424-e29a-40ff-a500-70544e680447) | ![download (15)](https://github.com/camenduru/ios-emoji-xl-model-colab/assets/54370274/0e02f62f-1001-40a9-b8ac-a826506a74cd) | ![download (20)](https://github.com/camenduru/ios-emoji-xl-model-colab/assets/54370274/4f94d267-b190-4808-84e3-e91e83bdf8eb) | ![download (21)](https://github.com/camenduru/ios-emoji-xl-model-colab/assets/54370274/046e2096-b891-4bdd-8684-ec9eb8cd8eb4)
+![download (8)](https://github.com/camenduru/ios-emoji-xl-model-colab/assets/54370274/e1b834aa-8342-4d87-86f2-3c47c8bc083e) | ![download](https://github.com/camenduru/ios-emoji-xl-model-colab/assets/54370274/6a7d2424-e29a-40ff-a500-70544e680447) | ![download (15)](https://github.com/camenduru/ios-emoji-xl-model-colab/assets/54370274/0e02f62f-1001-40a9-b8ac-a826506a74cd) | ![download (20)](https://github.com/camenduru/ios-emoji-xl-model-colab/assets/54370274/4f94d267-b190-4808-84e3-e91e83bdf8eb) | ![3179b54e-f9fd-4992-b6a5-8bcefc1eddd2](https://github.com/camenduru/ios-emoji-xl-model-colab/assets/54370274/c5db74ea-572b-4098-a912-847c4c2a7bc9)
 
 ## Output Version 1.0
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
-![out-0](https://github.com/camenduru/ios-emoji-xl-model-colab/assets/54370274/63ced594-e889-40f5-9d50-dd3cec1efaed) | ![5](https://github.com/camenduru/ios-emoji-xl-model-colab/assets/54370274/1a87d515-38d5-439c-bbd1-523f46de8d1f) | ![download (2)](https://github.com/camenduru/ios-emoji-xl-model-colab/assets/54370274/3c01739f-6094-4eeb-893a-3b4f4ab91337) | ![download](https://github.com/camenduru/ios-emoji-xl-model-colab/assets/54370274/63f7beb3-e4c6-4f29-ba91-c7cc79f2c723) | ![3179b54e-f9fd-4992-b6a5-8bcefc1eddd2](https://github.com/camenduru/ios-emoji-xl-model-colab/assets/54370274/c5db74ea-572b-4098-a912-847c4c2a7bc9)
+![out-0](https://github.com/camenduru/ios-emoji-xl-model-colab/assets/54370274/63ced594-e889-40f5-9d50-dd3cec1efaed) | ![5](https://github.com/camenduru/ios-emoji-xl-model-colab/assets/54370274/1a87d515-38d5-439c-bbd1-523f46de8d1f) | ![download (2)](https://github.com/camenduru/ios-emoji-xl-model-colab/assets/54370274/3c01739f-6094-4eeb-893a-3b4f4ab91337) | ![download](https://github.com/camenduru/ios-emoji-xl-model-colab/assets/54370274/63f7beb3-e4c6-4f29-ba91-c7cc79f2c723) | ![download (1)](https://github.com/camenduru/ios-emoji-xl-model-colab/assets/54370274/6ce8f20f-3a43-4013-9f9c-60765b30892a)
 
 ## Special Thanks
 Thanks to https://github.com/samuelngs/apple-emoji-linux for the 160x160 pixel emojis ❤ <br />
