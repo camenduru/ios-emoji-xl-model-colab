@@ -10,12 +10,10 @@
 
 # Version 1.0
 
-## Training Logs
-
+```py
 ⚠ Trained with 72x72 pixel apple emojis 😋  <br /> <br />
 Thanks to fofr ❤ for the idea. better model: https://twitter.com/fofrAI/status/1698741974835065171
 
-```py
 Num examples = 3953
 Num batches each epoch = 989
 Num Epochs = 2
@@ -23,10 +21,7 @@ Instantaneous batch size per device = 4
 Total train batch size (w. parallel, distributed & accumulation) = 4
 Gradient Accumulation steps = 1
 Total optimization steps = 1000
-```
 
-## Training Cost
-```py
 Trained with Nvidia A40 (Large) at https://replicate.com
 Thanks to Replicate ❤
 Total Run time: 44.3 minutes
