@@ -72,7 +72,7 @@ for idx, key in enumerate(checkpoint):
     new_key = re.sub('to_out', 'to_out_0', new_key)
     new_key = 'lora_unet_' + new_key
     new_dict[new_key] = checkpoint[key]
-save_file(new_dict, 'ios_emoji_xl_v2_lora_converted.safetensors')
+save_file(new_dict, 'ios_emoji_xl_v2_lora_webui.safetensors')
 ```
 
 ## Output Version 2.0
