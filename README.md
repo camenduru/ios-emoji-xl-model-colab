@@ -6,7 +6,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ios-emoji-xl-model-colab/blob/main/ios_emoji_xl_model_colab.ipynb) | ios_emoji_xl_model_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ios-emoji-xl-model-colab/blob/main/ios_emoji_xl_v1_model_colab.ipynb) | ios_emoji_xl_v1_model_colab
 
 ## Version 1.0 (72x72 pixel)
 
