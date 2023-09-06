@@ -50,7 +50,7 @@ https://huggingface.co/camenduru/ios-emoji-xl/blob/main/ios_emoji_xl_v2_lora_web
 ## Model & Dataset Repo
 https://huggingface.co/camenduru/ios-emoji-xl/tree/main
 
-## Replicate LoRA to WebUI LoRA Converter Code
+## Replicate LoRA to WebUI LoRA Converter
 - Thanks to
 - https://github.com/ignacfetser ❤
 - huggingface/diffusers#2326 ❤
