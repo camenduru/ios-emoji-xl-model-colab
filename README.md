@@ -43,6 +43,10 @@ Total Run time: 45.46 minutes
 Total Cost: $1.98
 ```
 
+## Version 2.0 Stable Diffusion WebUI LoRA
+https://civitai.com/models/140968/emoji-xl <br />
+https://huggingface.co/camenduru/ios-emoji-xl/blob/main/ios_emoji_xl_v2_lora_webui.safetensors <br />
+
 ## Model & Dataset Repo
 https://huggingface.co/camenduru/ios-emoji-xl/tree/main
 
