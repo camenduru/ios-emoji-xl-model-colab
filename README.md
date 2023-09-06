@@ -45,6 +45,11 @@ Total Cost: $??
 ## Model & Dataset Repo
 https://huggingface.co/camenduru/ios-emoji-xl/tree/main
 
+## Output Version 2.0
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+![download (8)](https://github.com/camenduru/ios-emoji-xl-model-colab/assets/54370274/e1b834aa-8342-4d87-86f2-3c47c8bc083e) | ![download](https://github.com/camenduru/ios-emoji-xl-model-colab/assets/54370274/6a7d2424-e29a-40ff-a500-70544e680447) | ![download (15)](https://github.com/camenduru/ios-emoji-xl-model-colab/assets/54370274/0e02f62f-1001-40a9-b8ac-a826506a74cd) | ![download (20)](https://github.com/camenduru/ios-emoji-xl-model-colab/assets/54370274/4f94d267-b190-4808-84e3-e91e83bdf8eb) | ![download (21)](https://github.com/camenduru/ios-emoji-xl-model-colab/assets/54370274/046e2096-b891-4bdd-8684-ec9eb8cd8eb4)
+
 ## Output Version 1.0
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
