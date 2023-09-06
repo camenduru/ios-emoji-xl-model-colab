@@ -11,7 +11,7 @@
 ## Version 1.0 (72x72 pixel)
 
 ```py
-⚠ Trained with 72x72 pixel apple emojis 😋
+Trained with 72x72 pixel apple emojis 😋
 
 GPU = Nvidia A40 (Large) at https://replicate.com
 Num examples = 3953
