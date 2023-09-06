@@ -32,13 +32,13 @@ Trained with 160x160 pixel ios v16.4 emojis 😋
 
 GPU = Nvidia A40 (Large) at https://replicate.com
 Num examples = 4129
-Num batches each epoch = ??
-Num Epochs = 2
+Num batches each epoch = 1033
+Num Epochs = 1
 Instantaneous batch size per device = 4
 Total train batch size (w. parallel, distributed & accumulation) = 4
 Gradient Accumulation steps = 1
 Total optimization steps = 1000
-Total Run time: ?? minutes
+Total Run time: 45.46 minutes
 Total Cost: $??
 ```
 
