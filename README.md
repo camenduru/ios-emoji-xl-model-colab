@@ -35,7 +35,7 @@ Total Cost: $2
 
 # Versio 2.0
 
-Thanks to https://github.com/samuelngs/apple-emoji-linux for the hi-res emojis ❤
+Thanks to https://github.com/samuelngs/apple-emoji-linux for the 160x160 pixel emojis ❤
 
 
 ## Model & Dataset Repo
