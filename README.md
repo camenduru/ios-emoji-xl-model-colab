@@ -13,6 +13,7 @@
 ```py
 ⚠ Trained with 72x72 pixel apple emojis 😋
 
+GPU = Nvidia A40 (Large) at https://replicate.com
 Num examples = 3953
 Num batches each epoch = 989
 Num Epochs = 2
@@ -20,9 +21,6 @@ Instantaneous batch size per device = 4
 Total train batch size (w. parallel, distributed & accumulation) = 4
 Gradient Accumulation steps = 1
 Total optimization steps = 1000
-
-Trained with Nvidia A40 (Large) at https://replicate.com
-Thanks to Replicate ❤
 Total Run time: 44.3 minutes
 Total Cost: $2
 ```
@@ -30,8 +28,9 @@ Total Cost: $2
 ## Version 2.0 (160x160 pixel)
 
 ```py
-⚠ Trained with 160x160 pixel ios v16.4 emojis 😋
+Trained with 160x160 pixel ios v16.4 emojis 😋
 
+GPU = Nvidia A40 (Large) at https://replicate.com
 Num examples = 4129
 Num batches each epoch = ??
 Num Epochs = 2
@@ -39,9 +38,6 @@ Instantaneous batch size per device = 4
 Total train batch size (w. parallel, distributed & accumulation) = 4
 Gradient Accumulation steps = 1
 Total optimization steps = 1000
-
-Trained with Nvidia A40 (Large) at https://replicate.com
-Thanks to Replicate ❤
 Total Run time: ?? minutes
 Total Cost: $??
 ```
@@ -57,3 +53,4 @@ https://huggingface.co/camenduru/ios-emoji-xl/tree/main
 ## Special Thanks
 Thanks to https://github.com/samuelngs/apple-emoji-linux for the 160x160 pixel emojis ❤ <br />
 Thanks to fofr ❤ for the idea. better model: https://twitter.com/fofrAI/status/1698741974835065171 <br />
+Thanks to https://replicate.com ❤ <br />
