@@ -8,10 +8,10 @@
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ios-emoji-xl-model-colab/blob/main/ios_emoji_xl_model_colab.ipynb) | ios_emoji_xl_model_colab
 
-# Version 1.0
+## Version 1.0 (72x72 pixel)
 
 ```py
-⚠ Trained with 72x72 pixel apple emojis 😋  <br /> <br />
+⚠ Trained with 72x72 pixel apple emojis 😋
 Thanks to fofr ❤ for the idea. better model: https://twitter.com/fofrAI/status/1698741974835065171
 
 Num examples = 3953
@@ -28,7 +28,7 @@ Total Run time: 44.3 minutes
 Total Cost: $2
 ```
 
-# Versio 2.0
+## Versio 2.0 (160x160 pixel)
 
 Thanks to https://github.com/samuelngs/apple-emoji-linux for the 160x160 pixel emojis ❤
 
